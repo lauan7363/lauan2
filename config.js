@@ -17,7 +17,7 @@ const msgwelcomeimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const byemsgimg = (numero, groupname) => {
-    return `SAIU E NEM MAMOU OS ADMS${numero}`
+    return `SAIU E NEM MAMOU OS ADMS ${numero}`
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir

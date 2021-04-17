@@ -23,7 +23,7 @@ if [ "$inp" = "s" ]; then
     pkg install imagemagick 
     npm install
     npm install pm2 -g
-    echo $GREEN"Hmmm tudo certo pode dar npm start, escanear o código e se divirta com o bot :)"
+    echo $GREEN"DEU CERTO DA sh start.sh QUE VAI CONECTAR :)"
 fi
 if [ "$inp" = "n" ]; then
     echo $RED"Jae então, se divirta tentando descobrir as dependências sozinho e manualmente :)"
