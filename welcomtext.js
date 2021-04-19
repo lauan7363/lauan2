@@ -1,3 +1,4 @@
+const cr = '🍷-𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴-🍷\n' 
 const welcome = (number, wame, groupname) => {
     return `𝐎𝐥𝐚 @${number}. 𝐒𝐞𝐣𝐚 𝐛𝐞𝐦 𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐠𝐫𝐮𝐩𝐨!
 
