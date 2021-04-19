@@ -11,19 +11,19 @@ const sgooglenotregister = true
 // quando não há comando registrado o bot procura uma pesquisa no google
 
 const msgwelcomeimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nEscreve ${prefix}menu para lista de comandos`
+    return `Seja bem-vindo. Escreva ${prefix}menu para lista de comandos do bot`
 }
 //Texto de boas vindas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const byemsgimg = (numero, groupname) => {
-    return `SAIU E NEM MAMOU OS ADMS ${numero}`
+    return `SAIU E NEM MAMOU OS ADMS AFF${numero}`
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nAo grupo`
+    return `Seja bem-vindo ao menu do bot aproveite`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -69,7 +69,7 @@ const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
 const banmsgpalavra = 'Palavra proibida? Já sabe né'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
-const qnttravahardroleta = 2
+const qnttravahardroleta = 0
 // quantidade de travas que mandam no roleta russa hard
 // Obs: O valor é multiplicado por 12 ent tenha cuidado
 
